@@ -2,7 +2,7 @@ Modeling transmission of SARS-CoV-2 Omicron in China: instructions for
 code running
 ================
 Deng Xiaowei[1]
-2022-04-30
+2022-05-10
 
 This is the instruction for readers to repeat and understand the
 construction for the model simulating the transmission of SARS-CoV-2
