@@ -8,7 +8,7 @@ This is the instruction for readers to repeat and understand the
 construction for the model simulating the transmission of SARS-CoV-2
 Omicron in China and its according health impact. The details for the
 methodology and results refer to our paper published
-(<https://www.researchsquare.com/article/rs-1478539/v1>).
+(https://www.nature.com/articles/s41591-022-01855-7).
 
 ## Running platform and software version
 
